@@ -1,0 +1,7 @@
+Quito,Guayaquil,45.0
+Quito,Cuenca,60.0
+Guayaquil,Galapagos,120.0
+Guayaquil,Cuenca,35.0
+Cuenca,Galapagos,85.0
+Quito,Manta,50.0
+Manta,Guayaquil,30.0
